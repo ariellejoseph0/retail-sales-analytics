@@ -3,6 +3,10 @@ End to end retail sales analytics project using SQL, Python, and Power BI to ana
 
 The project analyzes over **500,000 retail transaction records** from the UCI Online Retail dataset, covering transactions from **December 2010 through December 2011**. The analysis transforms raw transactional data into actionable business insights and an interactive three page Power BI dashboard.
 
+**Tools:** SQL (SQLite) • Python (Pandas) • Power BI • DAX • Google Colab
+
+**Project Highlights:** 541K+ transactions analyzed • 10 business questions • 3-page Power BI dashboard • Customer, product, market & cancellation analysis
+
 ## Dashboard Preview
 
 ### Executive Overview
