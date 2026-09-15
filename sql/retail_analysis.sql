@@ -1,0 +1,2 @@
+-- Retail Sales Performance & Customer Analytics
+-- SQL analysis queries
