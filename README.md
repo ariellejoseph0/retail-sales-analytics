@@ -1,4 +1,4 @@
-# retail-sales-analytics
+# Retail Sales Performance & Customer Analytics
 End to end retail sales analytics project using SQL, Python, and Power BI to analyze sales performance, customer behavior, product trends, geographic markets, and cancellations.
 
 The project analyzes over **500,000 retail transaction records** from the UCI Online Retail dataset, covering transactions from **December 2010 through December 2011**. The analysis transforms raw transactional data into actionable business insights and an interactive three page Power BI dashboard.
